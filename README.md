@@ -1,0 +1,1 @@
+use of pointers in for loop
